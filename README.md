@@ -1,1 +1,1 @@
-# EcommerceCourse
+# Ecommerce App
